@@ -1,4 +1,4 @@
-package semver
+package fayever
 
 // Collection is a collection of Version instances and implements the sort
 // interface. See the sort package for more details.

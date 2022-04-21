@@ -1,6 +1,7 @@
+//go:build gofuzz
 // +build gofuzz
 
-package semver
+package fayever
 
 func Fuzz(data []byte) int {
 	d := string(data)

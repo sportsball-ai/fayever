@@ -181,4 +181,4 @@ version didn't meet the constraint is returned. For example,
         // "1.3 is less than 1.4"
     }
 */
-package semver
+package fayever
